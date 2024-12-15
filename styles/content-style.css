@@ -62,3 +62,12 @@ li:hover {
 	background-position: center;
 	background-size: cover;
 }
+
+.post-contact .container {
+	height: 100%;
+	max-width: 800px;
+	max-width: var(--middle-width);
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 30px;
+}
